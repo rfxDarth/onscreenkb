@@ -1,0 +1,48 @@
+.main {
+    width: 380px;
+    height: 170px;
+    background-color: darkcyan;
+}
+
+.btn {
+    width: 20px;
+    height: 20px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 0px;
+    font-size: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.rs {
+    margin-right: 30px;
+}
+
+.rsh {
+    margin-right: 10px;
+}
+
+.uprow {
+    margin-top: 15px;
+}
+
+.btn.backspace {
+    width: 45px;
+}
+.btn.tab {
+    width: 30px;
+}
+.btn.caps {
+    width: 35px;
+}
+.btn.shift {
+    width: 45px;
+}
+.btn.ctrl,.btn.alt,.btn.win,.btn.rkc {
+    width: 25px;
+}
+.btn.space {
+    width: 150px;
+}
